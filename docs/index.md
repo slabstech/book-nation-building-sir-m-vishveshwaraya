@@ -22,3 +22,11 @@
 - [Summary and Recommendations](summary_recommendation.md)
 
 - [India's Future](indias_future.md) 
+
+
+----
+
+
+- [Book Available on Kindle](https://www.amazon.in/dp/B0FR2L4Y13)
+
+- [PDF Download](https://github.com/slabstech/book-nation-building-sir-m-vishveshwaraya/releases/download/v0.0.1/nation_building_sir_m_vishveshwaraya.pdf)
